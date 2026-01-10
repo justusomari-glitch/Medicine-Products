@@ -1,0 +1,316 @@
+supplier_id,supplier_name,country
+S200,HealWell,India
+S201,PharmaCorp,China
+S202,HealWell,
+S203,,China
+S204,GoodHealth Ltd,China
+S205,HealWell,
+S206,PharmaCorp,China
+S207,HealWell,Kenya
+S208,HealWell,Kenya
+S209,GoodHealth Ltd,China
+S210,HealWell,India
+S211,MediSupply,India
+S212,HealWell,Kenya
+S213,PharmaCorp,India
+S214,MediSupply,India
+S215,MediSupply,Germany
+S216,,India
+S217,PharmaCorp,China
+S218,GoodHealth Ltd,India
+S219,,China
+S220,,Germany
+S221,MediSupply,Kenya
+S222,HealWell,Germany
+S223,PharmaCorp,Kenya
+S224,HealWell,India
+S225,MediSupply,Germany
+S226,,
+S227,,China
+S228,GoodHealth Ltd,India
+S229,HealWell,China
+S230,MediSupply,India
+S231,GoodHealth Ltd,Kenya
+S232,,Germany
+S233,GoodHealth Ltd,Kenya
+S234,HealWell,
+S235,,India
+S236,PharmaCorp,India
+S237,HealWell,India
+S238,MediSupply,
+S239,HealWell,Kenya
+S240,PharmaCorp,Germany
+S241,HealWell,Germany
+S242,PharmaCorp,Kenya
+S243,PharmaCorp,China
+S244,,Kenya
+S245,PharmaCorp,Kenya
+S246,PharmaCorp,Germany
+S247,,Kenya
+S248,PharmaCorp,Germany
+S249,GoodHealth Ltd,Germany
+S250,HealWell,India
+S251,GoodHealth Ltd,India
+S252,PharmaCorp,India
+S253,MediSupply,India
+S254,PharmaCorp,Germany
+S255,HealWell,India
+S256,GoodHealth Ltd,Germany
+S257,MediSupply,Kenya
+S258,GoodHealth Ltd,China
+S259,MediSupply,India
+S260,GoodHealth Ltd,
+S261,,Kenya
+S262,PharmaCorp,Kenya
+S263,GoodHealth Ltd,India
+S264,PharmaCorp,
+S265,HealWell,
+S266,GoodHealth Ltd,Kenya
+S267,GoodHealth Ltd,
+S268,MediSupply,China
+S269,MediSupply,Kenya
+S270,HealWell,India
+S271,PharmaCorp,
+S272,PharmaCorp,China
+S273,HealWell,Kenya
+S274,HealWell,Germany
+S275,MediSupply,India
+S276,,
+S277,HealWell,Germany
+S278,HealWell,
+S279,MediSupply,Germany
+S280,MediSupply,Kenya
+S281,GoodHealth Ltd,Germany
+S282,MediSupply,India
+S283,PharmaCorp,India
+S284,PharmaCorp,India
+S285,PharmaCorp,Germany
+S286,PharmaCorp,Kenya
+S287,MediSupply,India
+S288,HealWell,
+S289,,Kenya
+S290,PharmaCorp,China
+S291,GoodHealth Ltd,India
+S292,MediSupply,Germany
+S293,HealWell,China
+S294,GoodHealth Ltd,Kenya
+S295,GoodHealth Ltd,Kenya
+S296,GoodHealth Ltd,India
+S297,GoodHealth Ltd,Kenya
+S298,GoodHealth Ltd,
+S299,HealWell,
+S300,MediSupply,India
+S301,MediSupply,Kenya
+S302,GoodHealth Ltd,India
+S303,MediSupply,
+S304,GoodHealth Ltd,Kenya
+S305,MediSupply,Kenya
+S306,MediSupply,Germany
+S307,GoodHealth Ltd,China
+S308,GoodHealth Ltd,India
+S309,HealWell,Kenya
+S310,GoodHealth Ltd,India
+S311,,Germany
+S312,MediSupply,India
+S313,MediSupply,Kenya
+S314,PharmaCorp,Kenya
+S315,MediSupply,Germany
+S316,HealWell,Germany
+S317,,
+S318,,India
+S319,GoodHealth Ltd,Germany
+S320,GoodHealth Ltd,Germany
+S321,,
+S322,GoodHealth Ltd,India
+S323,HealWell,India
+S324,GoodHealth Ltd,
+S325,GoodHealth Ltd,Kenya
+S326,PharmaCorp,Kenya
+S327,GoodHealth Ltd,
+S328,PharmaCorp,China
+S329,HealWell,Germany
+S330,GoodHealth Ltd,Germany
+S331,GoodHealth Ltd,India
+S332,HealWell,India
+S333,HealWell,India
+S334,HealWell,
+S335,HealWell,China
+S336,GoodHealth Ltd,Kenya
+S337,HealWell,India
+S338,,India
+S339,GoodHealth Ltd,China
+S340,HealWell,China
+S341,GoodHealth Ltd,
+S342,GoodHealth Ltd,Germany
+S343,,China
+S344,PharmaCorp,Kenya
+S345,HealWell,China
+S346,PharmaCorp,Kenya
+S347,,India
+S348,GoodHealth Ltd,
+S349,HealWell,
+S350,MediSupply,China
+S351,PharmaCorp,Kenya
+S352,PharmaCorp,India
+S353,GoodHealth Ltd,Germany
+S354,GoodHealth Ltd,Kenya
+S355,GoodHealth Ltd,Germany
+S356,MediSupply,China
+S357,,
+S358,GoodHealth Ltd,Germany
+S359,HealWell,Germany
+S360,PharmaCorp,
+S361,PharmaCorp,Germany
+S362,HealWell,Kenya
+S363,,China
+S364,PharmaCorp,India
+S365,MediSupply,India
+S366,,China
+S367,MediSupply,China
+S368,GoodHealth Ltd,
+S369,HealWell,Kenya
+S370,GoodHealth Ltd,Germany
+S371,MediSupply,Germany
+S372,,China
+S373,HealWell,Germany
+S374,GoodHealth Ltd,China
+S375,GoodHealth Ltd,China
+S376,PharmaCorp,
+S377,,China
+S378,PharmaCorp,China
+S379,MediSupply,
+S380,,
+S381,,Germany
+S382,PharmaCorp,
+S383,HealWell,
+S384,GoodHealth Ltd,Germany
+S385,HealWell,Germany
+S386,,Kenya
+S387,HealWell,China
+S388,PharmaCorp,Germany
+S389,HealWell,China
+S390,HealWell,Kenya
+S391,GoodHealth Ltd,Kenya
+S392,,Germany
+S393,PharmaCorp,Germany
+S394,GoodHealth Ltd,Kenya
+S395,HealWell,China
+S396,GoodHealth Ltd,
+S397,,Germany
+S398,PharmaCorp,China
+S399,HealWell,India
+S400,MediSupply,Kenya
+S401,GoodHealth Ltd,Kenya
+S402,MediSupply,Germany
+S403,PharmaCorp,India
+S404,HealWell,India
+S405,PharmaCorp,
+S406,PharmaCorp,China
+S407,PharmaCorp,
+S408,GoodHealth Ltd,
+S409,HealWell,China
+S410,GoodHealth Ltd,Germany
+S411,MediSupply,
+S412,,China
+S413,HealWell,Kenya
+S414,MediSupply,Kenya
+S415,HealWell,China
+S416,GoodHealth Ltd,India
+S417,GoodHealth Ltd,
+S418,MediSupply,India
+S419,HealWell,China
+S420,MediSupply,Kenya
+S421,MediSupply,Kenya
+S422,HealWell,China
+S423,GoodHealth Ltd,Germany
+S424,GoodHealth Ltd,China
+S425,HealWell,Kenya
+S426,MediSupply,China
+S427,HealWell,China
+S428,PharmaCorp,Kenya
+S429,GoodHealth Ltd,China
+S430,GoodHealth Ltd,India
+S431,PharmaCorp,Germany
+S432,PharmaCorp,India
+S433,,India
+S434,GoodHealth Ltd,
+S435,HealWell,China
+S436,HealWell,
+S437,PharmaCorp,Germany
+S438,,India
+S439,GoodHealth Ltd,
+S440,MediSupply,
+S441,HealWell,India
+S442,GoodHealth Ltd,
+S443,PharmaCorp,Kenya
+S444,PharmaCorp,Germany
+S445,HealWell,China
+S446,,Kenya
+S447,HealWell,China
+S448,GoodHealth Ltd,Germany
+S449,MediSupply,China
+S450,,China
+S451,MediSupply,Germany
+S452,MediSupply,
+S453,MediSupply,
+S454,HealWell,India
+S455,GoodHealth Ltd,Germany
+S456,,Kenya
+S457,HealWell,China
+S458,HealWell,
+S459,GoodHealth Ltd,Kenya
+S460,,India
+S461,PharmaCorp,China
+S462,HealWell,Kenya
+S463,,China
+S464,GoodHealth Ltd,China
+S465,PharmaCorp,India
+S466,MediSupply,China
+S467,PharmaCorp,Kenya
+S468,MediSupply,Germany
+S469,GoodHealth Ltd,Germany
+S470,,India
+S471,PharmaCorp,China
+S472,,
+S473,,China
+S474,GoodHealth Ltd,India
+S475,PharmaCorp,
+S476,GoodHealth Ltd,India
+S477,HealWell,India
+S478,PharmaCorp,Kenya
+S479,,China
+S480,HealWell,
+S481,MediSupply,Kenya
+S482,MediSupply,
+S483,MediSupply,China
+S484,MediSupply,Kenya
+S485,PharmaCorp,India
+S486,MediSupply,China
+S487,GoodHealth Ltd,China
+S488,,
+S489,MediSupply,Germany
+S490,GoodHealth Ltd,Germany
+S491,PharmaCorp,China
+S492,GoodHealth Ltd,Kenya
+S493,,China
+S494,HealWell,China
+S495,MediSupply,Germany
+S496,GoodHealth Ltd,Germany
+S497,MediSupply,Kenya
+S498,,Kenya
+S499,HealWell,Germany
+S339,GoodHealth Ltd,China
+S247,,Kenya
+S265,HealWell,
+S437,PharmaCorp,Germany
+S354,GoodHealth Ltd,Kenya
+S441,HealWell,India
+S494,HealWell,China
+S301,MediSupply,Kenya
+S423,GoodHealth Ltd,Germany
+S352,PharmaCorp,India
+S268,MediSupply,China
+S464,GoodHealth Ltd,China
+S488,,
+S216,,India
+S284,PharmaCorp,India

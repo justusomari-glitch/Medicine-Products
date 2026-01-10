@@ -1,0 +1,326 @@
+customer_id,customer_name,gender,age
+C500,,,34
+C501,Eunice Achieng,F,34
+C502,David Kamau,F,60
+C503,David Kamau,,18
+C504,Brian Otieno,M,
+C505,Alice Njeri,,60
+C506,David Kamau,F,60
+C507,David Kamau,M,60
+C508,David Kamau,F,34
+C509,Alice Njeri,F,
+C510,Alice Njeri,,34
+C511,Brian Otieno,,34
+C512,Brian Otieno,M,45
+C513,Eunice Achieng,M,60
+C514,,,60
+C515,Brian Otieno,M,25
+C516,David Kamau,M,
+C517,Eunice Achieng,F,25
+C518,Brian Otieno,M,18
+C519,,F,25
+C520,,M,34
+C521,Eunice Achieng,F,25
+C522,Eunice Achieng,F,
+C523,,,45
+C524,David Kamau,F,60
+C525,Eunice Achieng,M,18
+C526,Brian Otieno,F,34
+C527,Eunice Achieng,F,18
+C528,Eunice Achieng,,25
+C529,David Kamau,,18
+C530,,M,
+C531,Alice Njeri,F,34
+C532,,F,45
+C533,Alice Njeri,F,60
+C534,Eunice Achieng,,25
+C535,,M,18
+C536,,,34
+C537,Alice Njeri,,25
+C538,Brian Otieno,,34
+C539,David Kamau,M,25
+C540,David Kamau,,45
+C541,David Kamau,,60
+C542,Brian Otieno,,45
+C543,,,34
+C544,Alice Njeri,F,45
+C545,David Kamau,M,
+C546,Alice Njeri,F,25
+C547,Eunice Achieng,M,60
+C548,David Kamau,M,
+C549,Alice Njeri,F,34
+C550,Brian Otieno,F,34
+C551,,F,45
+C552,Eunice Achieng,M,18
+C553,Alice Njeri,,60
+C554,Alice Njeri,M,45
+C555,,,25
+C556,Eunice Achieng,,34
+C557,David Kamau,,
+C558,,F,45
+C559,,,25
+C560,Brian Otieno,,45
+C561,David Kamau,M,60
+C562,Eunice Achieng,,18
+C563,,,45
+C564,Alice Njeri,F,34
+C565,David Kamau,M,45
+C566,Eunice Achieng,,25
+C567,David Kamau,,18
+C568,David Kamau,F,45
+C569,Eunice Achieng,M,60
+C570,Alice Njeri,,34
+C571,,,45
+C572,,F,45
+C573,Eunice Achieng,,
+C574,Eunice Achieng,F,34
+C575,David Kamau,F,60
+C576,Brian Otieno,F,18
+C577,Brian Otieno,M,45
+C578,Brian Otieno,M,60
+C579,Brian Otieno,M,18
+C580,Brian Otieno,M,
+C581,Eunice Achieng,F,34
+C582,,,45
+C583,Alice Njeri,M,25
+C584,Brian Otieno,,60
+C585,Brian Otieno,F,
+C586,Eunice Achieng,M,60
+C587,David Kamau,,18
+C588,Brian Otieno,,34
+C589,Alice Njeri,M,45
+C590,Alice Njeri,,
+C591,,F,18
+C592,Brian Otieno,,60
+C593,,F,34
+C594,,M,25
+C595,Brian Otieno,F,45
+C596,,,45
+C597,Brian Otieno,,45
+C598,,,34
+C599,Brian Otieno,,18
+C600,David Kamau,F,45
+C601,David Kamau,M,18
+C602,,F,34
+C603,,,45
+C604,Eunice Achieng,M,60
+C605,Alice Njeri,,18
+C606,Brian Otieno,M,60
+C607,Eunice Achieng,F,25
+C608,Brian Otieno,M,18
+C609,David Kamau,M,
+C610,Alice Njeri,,45
+C611,Brian Otieno,,18
+C612,,F,45
+C613,David Kamau,,18
+C614,,F,18
+C615,Brian Otieno,F,60
+C616,Brian Otieno,F,25
+C617,David Kamau,F,18
+C618,Alice Njeri,,45
+C619,,F,25
+C620,,M,
+C621,Alice Njeri,F,60
+C622,Eunice Achieng,,
+C623,Brian Otieno,M,34
+C624,Brian Otieno,,25
+C625,,,60
+C626,,F,25
+C627,David Kamau,,45
+C628,Alice Njeri,,45
+C629,,F,18
+C630,David Kamau,M,34
+C631,,,18
+C632,David Kamau,M,45
+C633,,,18
+C634,,M,25
+C635,Brian Otieno,,25
+C636,David Kamau,F,60
+C637,,,60
+C638,Eunice Achieng,M,18
+C639,Eunice Achieng,M,25
+C640,,F,18
+C641,,M,45
+C642,Brian Otieno,F,60
+C643,Alice Njeri,M,60
+C644,Brian Otieno,M,34
+C645,Brian Otieno,M,34
+C646,Eunice Achieng,F,60
+C647,Eunice Achieng,,
+C648,Eunice Achieng,M,25
+C649,Alice Njeri,M,
+C650,Brian Otieno,M,
+C651,Eunice Achieng,,60
+C652,Eunice Achieng,F,
+C653,Alice Njeri,M,25
+C654,Alice Njeri,F,60
+C655,Eunice Achieng,M,34
+C656,,M,
+C657,,,18
+C658,,,45
+C659,David Kamau,F,60
+C660,,F,18
+C661,,F,
+C662,Eunice Achieng,F,
+C663,Eunice Achieng,,18
+C664,Brian Otieno,F,25
+C665,Brian Otieno,F,60
+C666,Brian Otieno,F,45
+C667,,F,45
+C668,Eunice Achieng,M,45
+C669,Alice Njeri,,
+C670,Eunice Achieng,,45
+C671,Brian Otieno,,45
+C672,Alice Njeri,F,60
+C673,David Kamau,F,
+C674,Eunice Achieng,M,34
+C675,,,18
+C676,Eunice Achieng,M,18
+C677,Eunice Achieng,M,
+C678,,M,
+C679,,,45
+C680,Eunice Achieng,,34
+C681,Alice Njeri,,60
+C682,,F,34
+C683,Eunice Achieng,M,34
+C684,David Kamau,F,60
+C685,Alice Njeri,M,60
+C686,David Kamau,F,60
+C687,Brian Otieno,M,60
+C688,David Kamau,M,18
+C689,Eunice Achieng,F,60
+C690,Eunice Achieng,F,34
+C691,Alice Njeri,F,
+C692,Alice Njeri,,60
+C693,Alice Njeri,F,
+C694,Eunice Achieng,,18
+C695,Alice Njeri,M,18
+C696,David Kamau,M,60
+C697,David Kamau,M,45
+C698,Eunice Achieng,,18
+C699,David Kamau,,34
+C700,,M,60
+C701,Brian Otieno,F,45
+C702,,M,
+C703,Eunice Achieng,,34
+C704,Brian Otieno,F,34
+C705,Alice Njeri,,34
+C706,Alice Njeri,M,34
+C707,Brian Otieno,,60
+C708,,,45
+C709,Eunice Achieng,M,
+C710,Eunice Achieng,M,
+C711,,,25
+C712,Eunice Achieng,,45
+C713,Brian Otieno,M,18
+C714,Alice Njeri,,18
+C715,Brian Otieno,F,60
+C716,Brian Otieno,F,34
+C717,David Kamau,F,45
+C718,,F,25
+C719,Alice Njeri,,
+C720,Eunice Achieng,,60
+C721,David Kamau,F,18
+C722,Eunice Achieng,M,34
+C723,,,45
+C724,David Kamau,M,
+C725,Brian Otieno,M,60
+C726,Eunice Achieng,F,45
+C727,David Kamau,,25
+C728,Alice Njeri,,18
+C729,Brian Otieno,M,25
+C730,,F,25
+C731,Alice Njeri,M,60
+C732,Alice Njeri,M,25
+C733,Brian Otieno,,25
+C734,David Kamau,F,
+C735,,M,45
+C736,David Kamau,,45
+C737,David Kamau,,18
+C738,Brian Otieno,,
+C739,Eunice Achieng,M,
+C740,Eunice Achieng,F,45
+C741,,F,18
+C742,Eunice Achieng,F,34
+C743,Brian Otieno,F,25
+C744,Brian Otieno,F,34
+C745,David Kamau,F,45
+C746,,,60
+C747,Eunice Achieng,,25
+C748,David Kamau,,
+C749,David Kamau,,25
+C750,Eunice Achieng,F,
+C751,Brian Otieno,,45
+C752,Brian Otieno,F,45
+C753,Brian Otieno,M,
+C754,Brian Otieno,M,18
+C755,Brian Otieno,F,34
+C756,Alice Njeri,,45
+C757,David Kamau,M,25
+C758,,,18
+C759,David Kamau,F,18
+C760,David Kamau,,
+C761,David Kamau,,60
+C762,David Kamau,M,34
+C763,Brian Otieno,F,25
+C764,Alice Njeri,M,34
+C765,,F,25
+C766,Alice Njeri,M,25
+C767,David Kamau,M,45
+C768,,F,60
+C769,,F,45
+C770,Eunice Achieng,M,45
+C771,Eunice Achieng,M,45
+C772,Eunice Achieng,,45
+C773,,,60
+C774,Alice Njeri,,45
+C775,,M,
+C776,Brian Otieno,F,18
+C777,Alice Njeri,F,
+C778,,,60
+C779,Brian Otieno,M,45
+C780,Eunice Achieng,,25
+C781,David Kamau,M,18
+C782,David Kamau,,60
+C783,Alice Njeri,M,34
+C784,David Kamau,,60
+C785,Eunice Achieng,F,18
+C786,,F,18
+C787,Eunice Achieng,M,34
+C788,Alice Njeri,M,
+C789,,F,25
+C790,Alice Njeri,M,25
+C791,,M,18
+C792,Alice Njeri,F,25
+C793,Brian Otieno,M,25
+C794,Eunice Achieng,,60
+C795,,,18
+C796,Brian Otieno,M,60
+C797,David Kamau,M,18
+C798,,,
+C799,,,25
+C550,Brian Otieno,F,34
+C574,Eunice Achieng,F,34
+C783,Alice Njeri,M,34
+C750,Eunice Achieng,F,
+C788,Alice Njeri,M,
+C765,,F,25
+C792,Alice Njeri,F,25
+C635,Brian Otieno,,25
+C537,Alice Njeri,,25
+C566,Eunice Achieng,,25
+C647,Eunice Achieng,,
+C531,Alice Njeri,F,34
+C601,David Kamau,M,18
+C544,Alice Njeri,F,45
+C611,Brian Otieno,,18
+C543,,,34
+C632,David Kamau,M,45
+C798,,,
+C603,,,45
+C661,,F,
+C699,David Kamau,,34
+C695,Alice Njeri,M,18
+C688,David Kamau,M,18
+C679,,,45
+C557,David Kamau,,

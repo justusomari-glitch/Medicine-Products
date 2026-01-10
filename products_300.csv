@@ -1,0 +1,321 @@
+product_id,product_name,category,unit_price
+P1000,,Supplement,75
+P1001,Cough Syrup,Analgesic,60
+P1002,Paracetamol,Syrup,120
+P1003,Paracetamol,Analgesic,120
+P1004,,Syrup,100
+P1005,Azithromycin,Supplement,100
+P1006,Amoxicillin,,120
+P1007,Ibuprofen,Supplement,75
+P1008,,Supplement,45
+P1009,Antacid,,100
+P1010,Paracetamol,Analgesic,60
+P1011,Cough Syrup,Analgesic,75
+P1012,Antacid,Analgesic,120
+P1013,Cough Syrup,Antibiotic,120
+P1014,Cough Syrup,,120
+P1015,Insulin,,60
+P1016,,Supplement,60
+P1017,Vitamin C,Antibiotic,
+P1018,Antacid,Syrup,75
+P1019,Vitamin C,Syrup,100
+P1020,Amoxicillin,Analgesic,75
+P1021,Antacid,Analgesic,45
+P1022,Amoxicillin,Analgesic,75
+P1023,,,100
+P1024,Amoxicillin,Syrup,60
+P1025,Paracetamol,Syrup,45
+P1026,Vitamin C,Analgesic,
+P1027,Vitamin C,Supplement,100
+P1028,Paracetamol,Supplement,100
+P1029,Azithromycin,Antibiotic,45
+P1030,Paracetamol,,75
+P1031,,Supplement,45
+P1032,Ibuprofen,Syrup,45
+P1033,Paracetamol,Syrup,100
+P1034,Amoxicillin,Antibiotic,100
+P1035,Antacid,Antibiotic,60
+P1036,Cough Syrup,Antibiotic,75
+P1037,Paracetamol,Supplement,100
+P1038,Paracetamol,Antibiotic,75
+P1039,Vitamin C,Supplement,60
+P1040,Vitamin C,,120
+P1041,Antacid,Syrup,100
+P1042,Azithromycin,Analgesic,100
+P1043,Cough Syrup,Syrup,100
+P1044,Antacid,Syrup,45
+P1045,Paracetamol,Analgesic,60
+P1046,Paracetamol,Analgesic,100
+P1047,Paracetamol,Syrup,100
+P1048,Vitamin C,Analgesic,60
+P1049,Amoxicillin,,75
+P1050,Insulin,Supplement,60
+P1051,Ibuprofen,Supplement,120
+P1052,,Antibiotic,75
+P1053,Amoxicillin,Antibiotic,100
+P1054,Insulin,,45
+P1055,,Supplement,45
+P1056,Paracetamol,Supplement,120
+P1057,Insulin,,120
+P1058,Vitamin C,Supplement,
+P1059,Amoxicillin,Antibiotic,
+P1060,Insulin,,60
+P1061,Vitamin C,Antibiotic,60
+P1062,Paracetamol,Syrup,100
+P1063,Cough Syrup,Analgesic,75
+P1064,Amoxicillin,Analgesic,
+P1065,Amoxicillin,Syrup,120
+P1066,Paracetamol,Syrup,
+P1067,Ibuprofen,Analgesic,100
+P1068,Paracetamol,Supplement,60
+P1069,Azithromycin,Syrup,45
+P1070,Ibuprofen,Supplement,120
+P1071,Azithromycin,Antibiotic,120
+P1072,Ibuprofen,Analgesic,75
+P1073,Ibuprofen,Analgesic,
+P1074,Antacid,Supplement,120
+P1075,Paracetamol,Antibiotic,120
+P1076,Amoxicillin,Antibiotic,75
+P1077,Antacid,Supplement,100
+P1078,Ibuprofen,Supplement,45
+P1079,Azithromycin,,120
+P1080,Ibuprofen,Analgesic,
+P1081,Ibuprofen,,100
+P1082,Ibuprofen,Antibiotic,60
+P1083,Ibuprofen,Antibiotic,120
+P1084,Ibuprofen,Supplement,75
+P1085,Antacid,Supplement,60
+P1086,Vitamin C,Antibiotic,
+P1087,Insulin,Syrup,60
+P1088,Vitamin C,Antibiotic,
+P1089,Cough Syrup,,120
+P1090,Antacid,Analgesic,120
+P1091,Ibuprofen,,100
+P1092,Ibuprofen,Syrup,
+P1093,Azithromycin,Analgesic,45
+P1094,Antacid,,
+P1095,,Antibiotic,60
+P1096,Ibuprofen,,100
+P1097,Ibuprofen,Antibiotic,75
+P1098,Paracetamol,,100
+P1099,,Analgesic,120
+P1100,Azithromycin,,45
+P1101,Cough Syrup,Antibiotic,120
+P1102,Paracetamol,Antibiotic,
+P1103,Amoxicillin,Antibiotic,120
+P1104,Paracetamol,Antibiotic,120
+P1105,,,100
+P1106,Ibuprofen,Antibiotic,60
+P1107,Ibuprofen,Supplement,60
+P1108,Cough Syrup,Analgesic,100
+P1109,Antacid,Supplement,
+P1110,,Syrup,45
+P1111,Vitamin C,Supplement,
+P1112,Paracetamol,Analgesic,45
+P1113,Azithromycin,Syrup,45
+P1114,Vitamin C,Syrup,75
+P1115,Insulin,Antibiotic,
+P1116,Paracetamol,Syrup,45
+P1117,,,
+P1118,Vitamin C,Antibiotic,60
+P1119,Azithromycin,Analgesic,75
+P1120,Insulin,,120
+P1121,Insulin,,45
+P1122,Vitamin C,Syrup,
+P1123,Azithromycin,Antibiotic,60
+P1124,Amoxicillin,,100
+P1125,Amoxicillin,Syrup,60
+P1126,Paracetamol,Syrup,100
+P1127,Amoxicillin,,120
+P1128,Amoxicillin,Syrup,45
+P1129,Antacid,Syrup,100
+P1130,Antacid,,100
+P1131,Azithromycin,,100
+P1132,Vitamin C,Supplement,100
+P1133,Ibuprofen,,45
+P1134,Vitamin C,Antibiotic,100
+P1135,Antacid,Syrup,
+P1136,Ibuprofen,,75
+P1137,Cough Syrup,Syrup,60
+P1138,Azithromycin,Antibiotic,
+P1139,Antacid,Analgesic,75
+P1140,Vitamin C,Antibiotic,60
+P1141,Azithromycin,Syrup,60
+P1142,Azithromycin,Supplement,60
+P1143,Amoxicillin,Antibiotic,60
+P1144,Insulin,Syrup,100
+P1145,Paracetamol,Antibiotic,60
+P1146,Vitamin C,Syrup,45
+P1147,Cough Syrup,Antibiotic,120
+P1148,Ibuprofen,Antibiotic,75
+P1149,Vitamin C,,100
+P1150,Paracetamol,Antibiotic,100
+P1151,Insulin,Supplement,120
+P1152,Amoxicillin,Supplement,120
+P1153,,Syrup,75
+P1154,Ibuprofen,,75
+P1155,Azithromycin,Syrup,45
+P1156,Amoxicillin,Antibiotic,100
+P1157,Insulin,Antibiotic,60
+P1158,Amoxicillin,Analgesic,100
+P1159,Paracetamol,Syrup,120
+P1160,Vitamin C,Analgesic,45
+P1161,Insulin,Supplement,120
+P1162,Ibuprofen,Analgesic,120
+P1163,Insulin,Syrup,
+P1164,Cough Syrup,Antibiotic,100
+P1165,Antacid,Supplement,120
+P1166,Paracetamol,Antibiotic,45
+P1167,Ibuprofen,Syrup,45
+P1168,Ibuprofen,Syrup,75
+P1169,Vitamin C,Antibiotic,75
+P1170,Antacid,Supplement,120
+P1171,Antacid,Supplement,60
+P1172,Vitamin C,,45
+P1173,Azithromycin,Supplement,120
+P1174,Azithromycin,Analgesic,120
+P1175,Vitamin C,Syrup,100
+P1176,Insulin,Syrup,100
+P1177,Paracetamol,,60
+P1178,Amoxicillin,Antibiotic,100
+P1179,Azithromycin,Analgesic,45
+P1180,Azithromycin,Analgesic,
+P1181,Antacid,Supplement,60
+P1182,,Analgesic,45
+P1183,Vitamin C,Analgesic,75
+P1184,Amoxicillin,Supplement,120
+P1185,Ibuprofen,Analgesic,45
+P1186,,Supplement,45
+P1187,Vitamin C,Analgesic,45
+P1188,Antacid,,60
+P1189,Antacid,Syrup,100
+P1190,,,100
+P1191,Antacid,Analgesic,75
+P1192,Ibuprofen,Syrup,120
+P1193,Amoxicillin,,45
+P1194,Vitamin C,Analgesic,75
+P1195,Ibuprofen,Supplement,
+P1196,,Supplement,100
+P1197,Insulin,Syrup,120
+P1198,Amoxicillin,Syrup,120
+P1199,Insulin,Supplement,120
+P1200,Cough Syrup,Supplement,100
+P1201,Azithromycin,,100
+P1202,,,60
+P1203,,,
+P1204,Paracetamol,Analgesic,120
+P1205,Ibuprofen,Syrup,
+P1206,Vitamin C,Analgesic,45
+P1207,Antacid,Antibiotic,
+P1208,Azithromycin,Syrup,45
+P1209,Ibuprofen,,100
+P1210,Antacid,Analgesic,60
+P1211,Ibuprofen,Antibiotic,60
+P1212,Insulin,Supplement,45
+P1213,Vitamin C,Analgesic,75
+P1214,Ibuprofen,Antibiotic,100
+P1215,Antacid,Supplement,60
+P1216,Azithromycin,Antibiotic,60
+P1217,Antacid,Syrup,
+P1218,Ibuprofen,Analgesic,75
+P1219,Ibuprofen,Syrup,45
+P1220,Antacid,Analgesic,75
+P1221,Insulin,Supplement,100
+P1222,Antacid,,
+P1223,Vitamin C,,45
+P1224,Insulin,Analgesic,75
+P1225,Amoxicillin,Antibiotic,60
+P1226,Ibuprofen,Analgesic,75
+P1227,Vitamin C,Antibiotic,
+P1228,Insulin,,100
+P1229,Insulin,Syrup,
+P1230,Vitamin C,,45
+P1231,Amoxicillin,,
+P1232,Azithromycin,Analgesic,120
+P1233,Vitamin C,Supplement,60
+P1234,Insulin,,45
+P1235,Vitamin C,Syrup,
+P1236,Paracetamol,Analgesic,45
+P1237,Ibuprofen,Supplement,
+P1238,Paracetamol,Supplement,100
+P1239,Antacid,Supplement,100
+P1240,Ibuprofen,Analgesic,60
+P1241,Amoxicillin,Analgesic,75
+P1242,Antacid,Syrup,75
+P1243,Azithromycin,Antibiotic,60
+P1244,Azithromycin,Antibiotic,45
+P1245,Azithromycin,Antibiotic,75
+P1246,Cough Syrup,Syrup,
+P1247,,Antibiotic,60
+P1248,Vitamin C,,
+P1249,,,45
+P1250,,Analgesic,45
+P1251,Amoxicillin,,
+P1252,Antacid,Antibiotic,60
+P1253,Paracetamol,Antibiotic,120
+P1254,Vitamin C,Supplement,
+P1255,,Syrup,75
+P1256,Ibuprofen,Supplement,75
+P1257,Amoxicillin,Supplement,75
+P1258,Ibuprofen,,120
+P1259,Cough Syrup,Analgesic,75
+P1260,Amoxicillin,,75
+P1261,Antacid,Analgesic,
+P1262,Insulin,Syrup,
+P1263,Azithromycin,Analgesic,45
+P1264,Paracetamol,,60
+P1265,Cough Syrup,Syrup,75
+P1266,Cough Syrup,,120
+P1267,Insulin,,100
+P1268,,Antibiotic,45
+P1269,Paracetamol,Analgesic,60
+P1270,Insulin,,45
+P1271,Amoxicillin,Syrup,60
+P1272,,Analgesic,120
+P1273,Insulin,Supplement,75
+P1274,Azithromycin,Supplement,
+P1275,Paracetamol,Analgesic,
+P1276,Ibuprofen,Analgesic,
+P1277,Ibuprofen,Analgesic,75
+P1278,Vitamin C,Antibiotic,75
+P1279,Antacid,Analgesic,
+P1280,Paracetamol,,60
+P1281,Insulin,Analgesic,120
+P1282,Ibuprofen,,75
+P1283,Paracetamol,Supplement,120
+P1284,Antacid,Analgesic,
+P1285,,Supplement,60
+P1286,Cough Syrup,Analgesic,100
+P1287,,,120
+P1288,Vitamin C,Antibiotic,75
+P1289,Antacid,,100
+P1290,Azithromycin,Supplement,120
+P1291,Insulin,Antibiotic,60
+P1292,Insulin,Antibiotic,45
+P1293,Amoxicillin,Antibiotic,75
+P1294,Insulin,Antibiotic,120
+P1295,Cough Syrup,Antibiotic,75
+P1296,,Syrup,45
+P1297,Amoxicillin,,
+P1298,Vitamin C,Supplement,120
+P1299,Insulin,,
+P1252,Antacid,Antibiotic,60
+P1053,Amoxicillin,Antibiotic,100
+P1116,Paracetamol,Syrup,45
+P1045,Paracetamol,Analgesic,60
+P1269,Paracetamol,Analgesic,60
+P1261,Antacid,Analgesic,
+P1208,Azithromycin,Syrup,45
+P1023,,,100
+P1246,Cough Syrup,Syrup,
+P1173,Azithromycin,Supplement,120
+P1234,Insulin,,45
+P1062,Paracetamol,Syrup,100
+P1292,Insulin,Antibiotic,45
+P1175,Vitamin C,Syrup,100
+P1273,Insulin,Supplement,75
+P1099,,Analgesic,120
+P1059,Amoxicillin,Antibiotic,
+P1094,Antacid,,
+P1229,Insulin,Syrup,
+P1178,Amoxicillin,Antibiotic,100
